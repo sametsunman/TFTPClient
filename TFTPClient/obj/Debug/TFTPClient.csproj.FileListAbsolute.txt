@@ -1,0 +1,10 @@
+c:\users\cassk\documents\visual studio 2017\Projects\TFTPClient\TFTPClient\obj\Debug\TFTPClient.csprojResolveAssemblyReference.cache
+c:\users\cassk\documents\visual studio 2017\Projects\TFTPClient\TFTPClient\obj\Debug\TFTPClient.Form1.resources
+c:\users\cassk\documents\visual studio 2017\Projects\TFTPClient\TFTPClient\obj\Debug\TFTPClient.Properties.Resources.resources
+c:\users\cassk\documents\visual studio 2017\Projects\TFTPClient\TFTPClient\obj\Debug\TFTPClient.csproj.GenerateResource.Cache
+c:\users\cassk\documents\visual studio 2017\Projects\TFTPClient\TFTPClient\obj\Debug\TFTPClient.csproj.CoreCompileInputs.cache
+c:\users\cassk\documents\visual studio 2017\Projects\TFTPClient\TFTPClient\bin\Debug\TFTPClient.exe.config
+c:\users\cassk\documents\visual studio 2017\Projects\TFTPClient\TFTPClient\bin\Debug\TFTPClient.exe
+c:\users\cassk\documents\visual studio 2017\Projects\TFTPClient\TFTPClient\bin\Debug\TFTPClient.pdb
+c:\users\cassk\documents\visual studio 2017\Projects\TFTPClient\TFTPClient\obj\Debug\TFTPClient.exe
+c:\users\cassk\documents\visual studio 2017\Projects\TFTPClient\TFTPClient\obj\Debug\TFTPClient.pdb
